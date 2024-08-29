@@ -4,7 +4,7 @@ Who loves to translate business
 requirements into technologies and build
 solutions that helps to grow business</p>
 <div align="center">
- <a href="https://www.linkedin.com/in/mrkaran-kumar/"> <img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a><a href="https://mail.google.com/mail/u/0/#inbox?compose=new"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
+ <a href="https://www.linkedin.com/in/mrkaran-kumar/"> <img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNstspnLlGLBcHcjSLJqRBcRccvbHmrCfWRPxPvQMFCphKXbQqqRpwkrxwTzClrJxqNhWg"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
  
 </div>
 
