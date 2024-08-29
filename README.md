@@ -14,8 +14,8 @@ solutions that helps to grow business</p>
 
 <img src="https://img.shields.io/static/v1?message=HTML&logo=HTML5&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="html logo"/>
 <img src="https://img.shields.io/static/v1?message=CSS&logo=CSS3&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Css3 logo"/>
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/static/v1message=JavaScript&logo=JavaScript&label=&color=323330&logoColor=f0db4f&labelColor=&style=for-the-badge" height="30" alt="JavaScript logo"/></a> <a href="https://getbootstrap.com/" ><img src="https://img.shields.io/static/v1?message=Bootstrap&logo=Bootstrap&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Bootstrap logo"/></a> <a href="https://react.dev/"><img src="https://img.shields.io/static/v1?message=Reactjs&logo=React&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="30" alt="React logo"/></a> 
-<img src="https://img.shields.io/static/v1message=JavaScript&logo=JavaScript&label=&color=323330&logoColor=f0db4f&labelColor=&style=for-the-badge" height="30" alt="JavaScript logo"/>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&label=&color=323330&logoColor=f0db4f&labelColor=&style=for-the-badge" height="30" alt="JavaScript logo"/></a> <a href="https://getbootstrap.com/" ><img src="https://img.shields.io/static/v1?message=Bootstrap&logo=Bootstrap&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Bootstrap logo"/></a> <a href="https://react.dev/"><img src="https://img.shields.io/static/v1?message=Reactjs&logo=React&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="30" alt="React logo"/></a> 
+<img src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&label=&color=323330&logoColor=f0db4f&labelColor=&style=for-the-badge" height="30" alt="JavaScript logo"/>
   
 </div>
 
