@@ -16,9 +16,9 @@ solutions that helps to grow business</p>
 <img src="https://img.shields.io/static/v1?message=CSS&logo=CSS3&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Css3 logo"/>
 <img src="https://img.shields.io/static/v1?message=JAVASCRIPT&logo=javascript&label=&color=323330&logoColor=f0db4f&labelColor=&style=for-the-badge" height="30" alt="Css3
   logo"/>
-<img src="https://img.shields.io/static/v1?message=Bootstrap&logo=Bootstrap&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Bootstrap logo"/>
+ <a href="https://getbootstrap.com/" ><img src="https://img.shields.io/static/v1?message=Bootstrap&logo=Bootstrap&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Bootstrap logo"/></a>
 
-<img src="https://img.shields.io/static/v1?message=Reactjs&logo=React&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="30" alt="React logo"/>
+<a href="https://react.dev/"><img src="https://img.shields.io/static/v1?message=Reactjs&logo=React&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="30" alt="React logo"/></a>
   
 </div>
 
