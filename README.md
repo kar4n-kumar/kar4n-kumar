@@ -5,7 +5,9 @@ requirements into technologies and build
 solutions that helps to grow business</p>
 <div align="center">
  <a href="https://www.linkedin.com/in/mrkaran-kumar/"> <img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+
+ <a href="[https://www.linkedin.com/in/mrkaran-kumar/](https://mail.google.com/mail/u/0/#inbox)"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
+ 
 </div>
 
 <h1>Programming Language</h1>
