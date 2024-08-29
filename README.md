@@ -10,7 +10,8 @@ solutions that helps to grow business</p>
 
 <h1>Programming Language</h1>
 <div align="left">
-<img src="https://img.shields.io/static/v1?message=PYTHON&logo=Python&label=&color=0077B5&logoColor=yellow&labelColor=&style=for-the-badge" height="30" alt="Python logo"/>
+ <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?message=PYTHON&logo=Python&label=&color=0077B5&logoColor=yellow&labelColor=&style=for-the-badge" height="30" alt="Python logo"/></a>
+
 <img src="https://img.shields.io/static/v1?message=HTML&logo=HTML5&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="html logo"/>
 <img src="https://img.shields.io/static/v1?message=CSS&logo=CSS3&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Css3 logo"/>
 <img src="https://img.shields.io/static/v1?message=JAVASCRIPT&logo=javascript&label=&color=323330&logoColor=f0db4f&labelColor=&style=for-the-badge" height="30" alt="Css3
