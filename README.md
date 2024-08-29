@@ -22,15 +22,14 @@ solutions that helps to grow business</p>
 
 <h1>Frameworks</h1>
 <div align="left">
-<img src="https://img.shields.io/static/v1?message=DJANGO&logo=django&label=&color=092e20&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Django logo"/>
+ <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/static/v1?message=DJANGO&logo=django&label=&color=092e20&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Django logo"/></a>
 <img src="https://img.shields.io/static/v1?message=FLASK&logo=Flask&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="Flask logo"/>
   
 </div>
 
 <h1>Databases</h1>
 <div align="left">
-<img src="https://img.shields.io/static/v1?message=MYSQL&logo=Mysql&label=&color=00758F&logoColor=F29111&labelColor=&style=for-the-badge" height="30" alt="Msql logo"/>
-<img src="https://img.shields.io/static/v1?message=MONGODB&logo=Mongodb&label=&color=E8E7D5&logoColor=4DB33D&labelColor=&style=for-the-badge" height="30" alt="Mongodb logo"/>
+ <a href="https://www.mysql.com/"><img src="https://img.shields.io/static/v1?message=MYSQL&logo=Mysql&label=&color=00758F&logoColor=F29111&labelColor=&style=for-the-badge" height="30" alt="Msql logo"/></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/static/v1?message=MONGODB&logo=Mongodb&label=&color=E8E7D5&logoColor=4DB33D&labelColor=&style=for-the-badge" height="30" alt="Mongodb logo"/></a>
   
 </div>
 
